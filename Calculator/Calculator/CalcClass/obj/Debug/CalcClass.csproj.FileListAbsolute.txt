@@ -1,0 +1,11 @@
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\CalcClass\bin\Debug\CalcClass.dll
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\CalcClass\bin\Debug\CalcClass.pdb
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\CalcClass\obj\Debug\CalcClass.csproj.CoreCompileInputs.cache
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\CalcClass\obj\Debug\CalcClass.dll
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\CalcClass\obj\Debug\CalcClass.pdb
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\CalcClass\bin\Debug\CalcClass.dll
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\CalcClass\bin\Debug\CalcClass.pdb
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\CalcClass\obj\Debug\CalcClass.csprojAssemblyReference.cache
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\CalcClass\obj\Debug\CalcClass.csproj.CoreCompileInputs.cache
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\CalcClass\obj\Debug\CalcClass.dll
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\CalcClass\obj\Debug\CalcClass.pdb
