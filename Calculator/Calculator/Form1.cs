@@ -38,7 +38,7 @@ namespace Calculator
             }
             Console.WriteLine(expression);
 
-            
+            AnalaizerClass.AnalaizerClass analyzer = new AnalaizerClass.AnalaizerClass(expression);
             try
             {
                 string res = analyzer.Estimate();
@@ -77,7 +77,7 @@ namespace Calculator
         {
             if (textBoxExpression.Text.Length == 0) return;
 
-           
+            AnalaizerClass.AnalaizerClass analyzer = new AnalaizerClass.AnalaizerClass(textBoxExpression.Text);
             try
             {
                 string res = analyzer.Estimate();
